@@ -1,0 +1,98 @@
+[
+    {
+        "No":"1",
+        "salelive":false,
+        "name":"Fancy Product",
+        "rating":false,
+        "price":{
+            "oldprice":"$40.00-$80.00",
+            "pricechange":false,
+            "newprice":"$40.00-$80.00"
+        },
+        "cartbutton":"View Option"
+    },
+    {
+        "No":"2",
+        "salelive":true,
+        "name":"Special Item",
+        "rating":true,
+        "price":{
+            "oldprice":"$20.00",
+            "pricechange":true,
+            "newprice":"$18.00"
+        },
+        "cartbutton":"Add to cart"
+    },
+    {
+        "No":"3",
+        "salelive":true,
+        "name":"Sale Item",
+        "rating":false,
+        "price":{
+            "oldprice":"$50.00",
+            "pricechange":true,
+            "newprice":"$20.00"
+        },
+        "cartbutton":"Add to cart"
+    },
+    {
+        "No":"4",
+        "salelive":false,
+        "name":"Popular Item",
+        "rating":true,
+        "price":{
+            "oldprice":"$40.00",
+            "pricechange":false,
+            "newprice":"$40.00"
+        },
+        "cartbutton":"Add to cart"
+    },
+    {
+        "No":"5",
+        "salelive":true,
+        "name":"Sale Item",
+        "rating":false,
+        "price":{
+            "oldprice":"$50.00",
+            "pricechange":true,
+            "newprice":"$25.00"
+        },
+        "cartbutton":"Add to cart"
+    },
+    {
+        "No":"6",
+        "salelive":false,
+        "name":"Fancy Product",
+        "rating":false,
+        "price":{
+            "oldprice":"$120.00-$280.00",
+            "pricechange":false,
+            "newprice":"$120.00-$280.00"
+        },
+        "cartbutton":"View options"
+    },
+    {
+        "No":"7",
+        "salelive":true,
+        "name":"Special Item",
+        "rating":true,
+        "price":{
+            "oldprice":"$20.00",
+            "pricechange":true,
+            "newprice":"$18.00"
+        },
+        "cartbutton":"Add to cart"
+    },
+    {
+        "No":"8",
+        "salelive":false,
+        "name":"Popular Item",
+        "rating":true,
+        "price":{
+            "oldprice":"$40.00",
+            "pricechange":false,
+            "newprice":"$40.00"
+        },
+        "cartbutton":"Add to cart"
+    }
+]
